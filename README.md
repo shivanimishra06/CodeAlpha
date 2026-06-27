@@ -24,3 +24,7 @@ A simple Flashcard Quiz App built using Python and Streamlit.
 
 2. Run the app:
    streamlit run app.py
+
+## Screen Shot
+   <img width="1531" height="1073" alt="1000103412" src="https://github.com/user-attachments/assets/f0740cd2-5659-4e13-a166-99ae86bd3efa" />
+
